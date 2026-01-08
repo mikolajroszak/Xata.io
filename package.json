@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@octokit/core": "^6.1.2",
-    "@pnpm/exportable-manifest": "^1000.0.1",
+    "@pnpm/exportable-manifest": "^1000.2.3",
     "@pnpm/read-project-manifest": "^1000.0.1",
     "@pnpm/write-project-manifest": "^1000.0.0"
   },
