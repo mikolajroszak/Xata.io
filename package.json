@@ -98,7 +98,7 @@
     "@octokit/core": "^6.1.2",
     "@pnpm/exportable-manifest": "^1000.0.1",
     "@pnpm/read-project-manifest": "^1000.0.1",
-    "@pnpm/write-project-manifest": "^1000.0.0"
+    "@pnpm/write-project-manifest": "^1000.0.15"
   },
   "packageManager": "pnpm@8.11.0",
   "pnpm": {
