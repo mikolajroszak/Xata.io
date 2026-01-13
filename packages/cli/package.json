@@ -51,7 +51,7 @@
     "relaxed-json": "^1.0.3",
     "semver": "^7.6.3",
     "text-table": "^0.2.0",
-    "tmp": "^0.2.3",
+    "tmp": "^0.2.4",
     "ts-pattern": "^5.6.0",
     "tslib": "^2.8.1",
     "type-fest": "^4.30.1",
